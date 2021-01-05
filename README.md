@@ -1,2 +1,1 @@
-# Telecom-Churn
-Machine Learning - Use Case
+# Telecom-Churn- Case Study
